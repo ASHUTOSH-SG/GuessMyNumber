@@ -1,7 +1,7 @@
 # GuessMyNumber
 
-link = https://ashutosh-sg.github.io/GuessMyNumber/
 A retro-styled game where the player tries to guess a random number between 1 and 20.
+link = https://ashutosh-sg.github.io/GuessMyNumber/
 
 GuessMyNumber is a simple guessing game where the player tries to guess a random number
 between 1 and 20. The game features a retro-themed UI inspired by classic 80's games.
