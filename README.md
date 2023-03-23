@@ -26,10 +26,10 @@ CSS
 JavaScript
 
 Learnings:
-Dom Manipulation
-Selecting and Manipulation Elements
-Handling Events
-Game LOgic
+Dom Manipulation,
+Selecting and Manipulation Elements,
+Handling Events,
+Game LOgic,
 Manipulating CSSstyles
 
 How to Contribute
