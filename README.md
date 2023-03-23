@@ -15,7 +15,7 @@ the game will provide feedback to help you guess again. You can keep guessing un
 you correctly guess the random number or choose to reset the game and start over.
 
 Features
-Generates a random number between 1 and 20 for the player to guess.
+Generates a random number between 1 to 20 for the player to guess.
 Provides feedback to the player to help them guess again if their guess is incorrect.
 Keeps track of the number of attempts made by the player and displays it on the UI.
 Allows the player to reset the game and start over.
